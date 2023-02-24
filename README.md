@@ -1,8 +1,8 @@
 # Description
 
-The OpenID Connect Directory Manager plugin extends the Security Enhanced Directory Manager to allow users to single sign-on (SSO) to [Joget](https://www.joget.org) using OpenID Connect.
+The **UAEPass Directory Manager Plugin** plugin allow users to single sign-on (SSO) to [Joget](https://www.joget.org) using UAE Pass.
 
-Documentation is available at [OpenID Connect Directory Manager Plugin](https://dev.joget.org/community/display/marketplace/OpenID+Connect+Directory+Manager+Plugin).
+Documentation is available at [OpenID Connect Directory Manager Plugin](https://dev.joget.org/community/display/marketplace/UAEPass+Directory+Manager+Plugin).
 
 # Getting Help
 
