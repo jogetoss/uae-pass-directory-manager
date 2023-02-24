@@ -2,7 +2,7 @@
 
 The **UAEPass Directory Manager Plugin** plugin allow users to single sign-on (SSO) to [Joget](https://www.joget.org) using UAE Pass.
 
-Documentation is available at [OpenID Connect Directory Manager Plugin](https://dev.joget.org/community/display/marketplace/UAEPass+Directory+Manager+Plugin).
+Documentation is available at [UAEPass Directory Manager Plugin](https://dev.joget.org/community/display/marketplace/UAEPass+Directory+Manager+Plugin).
 
 # Getting Help
 
