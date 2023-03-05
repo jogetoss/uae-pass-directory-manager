@@ -386,9 +386,6 @@ public class OpenIDDirectoryManagerForUAEPass extends SecureDirectoryManager {
         // Get the ID and access token, the server may also return a refresh token
         JWT idToken = successResponse.getOIDCTokens().getIDToken();
         AccessToken accessToken = successResponse.getOIDCTokens().getAccessToken();
-        if (successResponse.getOIDCTokens().getRefreshToken() != null) {
-            RefreshToken refreshToken = successResponse.getOIDCTokens().getRefreshToken();
-        }
 
         //return here for direct(uae)
         if(dmImpl.getPropertyString("issuer").equals("uaePass")) {
