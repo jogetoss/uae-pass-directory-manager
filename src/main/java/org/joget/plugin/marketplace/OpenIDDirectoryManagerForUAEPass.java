@@ -81,7 +81,7 @@ public class OpenIDDirectoryManagerForUAEPass extends SecureDirectoryManager {
 
     @Override
     public String getVersion() {
-        return "7.0.5";
+        return "7.0.0";
     }
 
     @Override
